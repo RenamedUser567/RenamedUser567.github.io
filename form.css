@@ -1,0 +1,44 @@
+body {
+    background-color: #778899;
+    font-family: 'Oswald';
+     }
+
+form {
+    background-color: white;
+    padding: 20px;
+    width: 220px;
+    border-radius: 10px;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align:center;
+    font-size:30px;
+    width: 100%;
+}
+
+form label {
+    font-weight:bold;
+}
+
+form input{
+    margin-bottom: 10px;
+}
+        
+.textbox{
+    width:100%;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+}
+
+#Submit{
+    background-color: red;
+    color:white;
+    padding: 2px 15px 2px 15px;
+}
+
+#Reset{
+    background-color: darkgreen;
+    color:white;
+    padding: 2px 15px 2px 15px;
+}
