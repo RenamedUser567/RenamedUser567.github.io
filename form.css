@@ -32,13 +32,13 @@ form input{
 }
 
 #Submit{
-    background-color: red;
+    background-color: darkgreen;
     color:white;
     padding: 2px 15px 2px 15px;
 }
 
 #Reset{
-    background-color: darkgreen;
+    background-color: red;
     color:white;
     padding: 2px 15px 2px 15px;
 }
